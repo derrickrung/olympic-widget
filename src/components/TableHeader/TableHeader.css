@@ -1,0 +1,7 @@
+.active {
+  border-top: 1px solid black;
+}
+
+.clickable {
+  cursor: pointer;
+}

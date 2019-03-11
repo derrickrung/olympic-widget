@@ -1,0 +1,9 @@
+.flag {
+  background-image: url("https://s3-us-west-2.amazonaws.com/reuters.medals-widget/flags.png");
+  height: 17px;
+  width: 28px;
+}
+
+.bold {
+  font-weight: bold;
+}
